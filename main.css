@@ -1,0 +1,16 @@
+body {
+	font-family: Menlo, Inconsolata, Courier;
+	font-size: 10pt;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li.ins {
+	background-color: rgb(127, 255, 127);
+}
+
+li.del {
+	background-color: rgb(255, 127, 127);
+}
